@@ -1,0 +1,1 @@
+##In this app project I make translation app using Langchain and Gemini
